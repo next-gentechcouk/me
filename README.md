@@ -36,8 +36,8 @@
 ---
 
 ## 📫 Let's Connect  
-- 🌐 [Portfolio](#)  
-- 🐦 [Twitter](#)  
-- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio](https://next-gentech.co.uk/)  
+- 🐦 [Twitter](https://next-gentech.co.uk/)  
+- 💼 [LinkedIn](https://next-gentech.co.uk/)  
 
 ✨ *"Code is more than syntax; it's a medium to change the world!"*
